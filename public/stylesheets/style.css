@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(83, 83, 83);
+
+}
+table{
+  background-color: rgb(220, 255, 253);
+  
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+h1{
+  color: rgb(127, 210, 255);
+}
+p{
+  color: white;
+}
